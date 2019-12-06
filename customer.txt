@@ -1,0 +1,1 @@
+username: customer , password: pass123 , level: silver , balance: 100.0
